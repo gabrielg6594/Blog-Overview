@@ -8,11 +8,15 @@ My project would have a very mediocore effect as many poeple already are interac
 
 ## Implications: 
 My project is a Midnight blue calendar that has a few positives and negetives that people have pointed out. Some of the posotives and negatives that will have a impact on society are:
-Positives:
+
+### Positives:
+
 - Made with Javascript which makes it saved in memory until refreshed.
 - Does not require a login username and password.
 - No overly complicated options on how to be used.
-Negatives:
+
+### Negatives:
+
 - Does not save events, everything is temporary and held in memory.
 - No editing feature so if there is a mistake there is no way to fix it.
 - There is no added features that people would like to have, no reminders.
