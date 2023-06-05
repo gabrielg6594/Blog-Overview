@@ -1,10 +1,13 @@
 # Blog-Overview
 
-## Context: My freedom project is a Calendar that is to help with keeping track of events made from Javascript,html, css, and JSON.
+## Context: 
+My freedom project is a Calendar that is to help with keeping track of events made from Javascript,html, css, and JSON.
 
-## Content: My project would have a very mediocore effect as many poeple already are interacting with a kind of calendar to keep their tasks and things to do in order while it will show how mine takes into account of different from global, social, and economic catagories and how my project would do in those areas.
+## Content: 
+My project would have a very mediocore effect as many poeple already are interacting with a kind of calendar to keep their tasks and things to do in order while it will show how mine takes into account of different from global, social, and economic catagories and how my project would do in those areas.
 
-## Implications: My project is a Midnight blue calendar that has a few positives and negetives that people have pointed out. Some of the posotives and negatives that will have a impact on society are:
+## Implications: 
+My project is a Midnight blue calendar that has a few positives and negetives that people have pointed out. Some of the posotives and negatives that will have a impact on society are:
 Positives:
 - Made with Javascript which makes it saved in memory until refreshed.
 - Does not require a login username and password.
